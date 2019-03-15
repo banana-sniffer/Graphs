@@ -1,0 +1,22 @@
+L RealPlace -852.1 2613.16
+L C1 -6737.24 1351.3
+L C2 -352.1 2611.94
+L C3a -6738.61 2611.34
+L C3 -3242.1 492.1
+L FakePlace -1512.4 93495.3
+L C4 -6726 2581.16
+L C4a -6725.18 1241.1
+L C4b -41241.2 2570.59
+L CatPlace -6723.68 3214.1
+L C6 -1351.3 523.1
+
+R RealPlace stoooopid 0.3196 NS C1
+R C1 dududu 10.1 EW C2
+R C2 dudumb 41.42 NS C3a
+R C3a 6IX9INE 43.2 EW C3
+R C3 STOOOOPID 1.67 EW FakePlace
+R FakePlace BobbyJailTime 90.87 NS C4
+R C4 FEFE 8.91 NS C4a
+R C4a Nikki 7.2 EW C4b
+R C4b Minaj 4.5 EW C6
+R CatPlace flexing 0.001 SN C6
